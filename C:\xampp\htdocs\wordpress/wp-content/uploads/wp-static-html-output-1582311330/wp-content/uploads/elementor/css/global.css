@@ -1,0 +1,532 @@
+.elementor-widget-heading .elementor-heading-title {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-image .widget-image-caption {color: #707070;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-text-editor {color: #707070;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {background-color: #202020;}
+.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {color: #202020;border-color: #202020;}
+.elementor-widget-button .elementor-button {font-family: "Roboto",Sans-serif;font-weight: 500;background-color: #f6121c;}
+.elementor-widget-divider {--divider-border-color: #b7b4b4;}
+.elementor-widget-divider .elementor-divider__text {color: #b7b4b4;font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-divider.elementor-view-stacked .elementor-icon {background-color: #b7b4b4;}
+.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon {color: #b7b4b4;border-color: #b7b4b4;}
+.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon svg {fill: #b7b4b4;}
+.elementor-widget-image-box .elementor-image-box-content .elementor-image-box-title {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-image-box .elementor-image-box-content .elementor-image-box-description {color: #707070;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-icon.elementor-view-stacked .elementor-icon {background-color: #202020;}
+.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon {color: #202020;border-color: #202020;}
+.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon svg {fill: #202020;}
+.elementor-widget-icon-box.elementor-view-stacked .elementor-icon {background-color: #202020;}
+.elementor-widget-icon-box.elementor-view-framed .elementor-icon, .elementor-widget-icon-box.elementor-view-default .elementor-icon {fill: #202020;color: #202020;border-color: #202020;}
+.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-title {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description {color: #707070;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-star-rating .elementor-star-rating__title {color: #707070;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-image-carousel .elementor-image-carousel-caption {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-image-gallery .gallery-item .gallery-caption {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after {border-color: #707070;}
+.elementor-widget-icon-list .elementor-icon-list-icon i {color: #202020;}
+.elementor-widget-icon-list .elementor-icon-list-icon svg {fill: #202020;}
+.elementor-widget-icon-list .elementor-icon-list-text {color: #b7b4b4;}
+.elementor-widget-icon-list .elementor-icon-list-item {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-counter .elementor-counter-number-wrapper {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-counter .elementor-counter-title {color: #b7b4b4;font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-progress .elementor-progress-wrapper .elementor-progress-bar {background-color: #202020;}
+.elementor-widget-progress .elementor-title {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-testimonial .elementor-testimonial-content {color: #707070;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-testimonial .elementor-testimonial-name {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-testimonial .elementor-testimonial-job {color: #b7b4b4;font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-tabs .elementor-tab-title a {color: #202020;}
+.elementor-widget-tabs .elementor-tab-title.elementor-active a {color: #f6121c;}
+.elementor-widget-tabs .elementor-tab-title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-tabs .elementor-tab-content {color: #707070;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-accordion .elementor-accordion-icon, .elementor-widget-accordion a {color: #202020;}
+.elementor-widget-accordion .elementor-active .elementor-accordion-icon, .elementor-widget-accordion .elementor-active a {color: #f6121c;}
+.elementor-widget-accordion .elementor-accordion .elementor-tab-title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-accordion .elementor-accordion .elementor-tab-content {color: #707070;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-toggle .elementor-tab-title a, .elementor-widget-toggle .elementor-toggle-icon {color: #202020;}
+.elementor-widget-toggle .elementor-tab-title.elementor-active a, .elementor-widget-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon {color: #f6121c;}
+.elementor-widget-toggle .elementor-toggle .elementor-tab-title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-toggle .elementor-toggle .elementor-tab-content {color: #707070;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-alert .elementor-alert-title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-alert .elementor-alert-description {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-eael-advanced-data-table th textarea, .elementor-widget-eael-advanced-data-table th {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-eael-advanced-data-table td textarea, .elementor-widget-eael-advanced-data-table td {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-eael-advanced-data-table .ea-advanced-data-table-search {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-eael-advanced-data-table .ea-advanced-data-table-pagination a {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-eael-caldera-form .eael-contact-form-description {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-contact-form-7 .eael-contact-form-7 .eael-contact-form-7-title {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-contact-form-7 .eael-contact-form-7 .eael-contact-form-7-description {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-contact-form-7 .eael-contact-form-7 .wpcf7-form-control.wpcf7-text, .elementor-widget-eael-contact-form-7 .eael-contact-form-7 .wpcf7-form-control.wpcf7-textarea, .elementor-widget-eael-contact-form-7 .eael-contact-form-7 .wpcf7-form-control.wpcf7-select {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-contact-form-7 .eael-contact-form-7 .wpcf7-form label {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-contact-form-7 .eael-contact-form-7 .wpcf7-form-control::-webkit-input-placeholder {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-contact-form-7 .eael-contact-form-7 .wpcf7-form input[type="submit"] {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-contact-form-7 .eael-contact-form-7 .wpcf7-validation-errors {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-countdown .eael-countdown-digits::after {font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-eael-countdown .eael-countdown-digits {font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-eael-countdown .eael-countdown-label {font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-eael-countdown .eael-countdown-finish-message .expiry-title {font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.eael-countdown-finish-text {font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-eael-creative-button .eael-creative-button .cretive-button-text, .elementor-widget-eael-creative-button .eael-creative-button--winona::after {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-item-header .eael-facebook-feed-item-user .eael-facebook-feed-username {font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-item-header .eael-facebook-feed-post-time {font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-item-content .eael-facebook-feed-message {font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-preview-wrap .eael-facebook-feed-url-preview .eael-facebook-feed-url-host {font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-preview-wrap .eael-facebook-feed-url-preview .eael-facebook-feed-url-title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-preview-wrap .eael-facebook-feed-url-preview .eael-facebook-feed-url-description {font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-overlay .eael-facebook-feed-item .eael-facebook-feed-item-overlay, .elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-item-footer {font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-eael-fancy-text .eael-fancy-text-prefix {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-eael-fancy-text .eael-fancy-text-strings, .elementor-widget-eael-fancy-text .typed-cursor {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-eael-fancy-text .eael-fancy-text-suffix {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-eael-feature-list .connector-type-classic .connector {border-color: #202020;}
+.elementor-widget-eael-feature-list .connector-type-modern .eael-feature-list-item:before, .elementor-widget-eael-feature-list .connector-type-modern .eael-feature-list-item:after {border-color: #202020;}
+.elementor-widget-eael-feature-list .eael-feature-list-content-box .eael-feature-list-title, .elementor-widget-eael-feature-list .eael-feature-list-content-box .eael-feature-list-title > a, .elementor-widget-eael-feature-list .eael-feature-list-content-box .eael-feature-list-title:visited {color: #202020;}
+.elementor-widget-eael-feature-list .eael-feature-list-content-box .eael-feature-list-title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-eael-feature-list .eael-feature-list-content-box .eael-feature-list-content {color: #707070;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-eael-filterable-gallery .fg-caption-head .fg-item-price {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-filterable-gallery .fg-caption-head .fg-item-ratings {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-filterable-gallery .fg-item-category span {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-filterable-gallery .fg-filter-trigger > span {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-filterable-gallery .fg-layout-3-filter-controls li.control {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-filterable-gallery .eael-gallery-load-more .eael-filterable-gallery-load-more-text {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-fluentform .eael-fluentform-description {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-gravity-form .eael-gravity-form .gform_wrapper .gform_title, .elementor-widget-eael-gravity-form .eael-gravity-form .eael-gravity-form-title {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-gravity-form .eael-gravity-form .gform_wrapper .gform_description, .elementor-widget-eael-gravity-form .eael-gravity-form .eael-gravity-form-description {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-gravity-form .eael-gravity-form .gfield .ginput_container_text input[type="text"], .elementor-widget-eael-gravity-form .eael-gravity-form .gfield textarea, .elementor-widget-eael-gravity-form .eael-gravity-form .gfield select {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-gravity-form .eael-gravity-form .gfield.gsection .gsection_title {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-gravity-form .eael-gravity-form .gform_footer input[type="submit"] {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-gravity-form .eael-gravity-form .gform_confirmation_wrapper .gform_confirmation_message {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-ninja .eael-ninja-form .eael-contact-form-description {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-ninja .eael-ninja-form .submit-container input[type="button"] {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-ninja .eael-ninja-form .nf-form-fields-required {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-post-grid .eael-entry-title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-eael-post-grid .eael-grid-post-excerpt p {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-eael-post-grid .eael-entry-meta > div, .elementor-widget-eael-post-grid .eael-entry-meta > span {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-eael-post-timeline .eael-timeline-post-title h2 {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-eael-post-timeline .eael-timeline-post-excerpt p {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-eael-progress-bar .eael-progressbar-title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-eael-progress-bar .eael-progressbar-count-wrap {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-eael-progress-bar .eael-progressbar-half-circle-after span {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-eael-weform .eael-weform-container ul.wpuf-form .wpuf-submit input[type="submit"] {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-eael-wpforms .eael-contact-form-description, .elementor-widget-eael-wpforms .wpforms-description {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-wpforms .eael-wpforms .wpforms-field label {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-wpforms .eael-wpforms .wpforms-field input:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file]), .elementor-widget-eael-wpforms .eael-wpforms .wpforms-field textarea, .elementor-widget-eael-wpforms .eael-wpforms .wpforms-field select {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-eael-wpforms .eael-wpforms .wpforms-submit-container .wpforms-submit {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-section-title-addons .title-style-two .section-title-txt::before {background-color: #202020;}
+.elementor-widget-section-title-addons .title-style-two .section-title-txt::after {background-color: #202020;}
+.elementor-widget-section-title-addons .htmega-section-title span.htmega-title-sperator {background-color: #202020;}
+.elementor-widget-section-title-addons .htmega-section-title .section-title-txt {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-section-title-addons .htmega-section-title .section-subtitle-txt {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-section-title-addons .htmega-section-title .section-advancetitle-txt {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-button-addons .htmega-button .htb-btn {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-button-addons .htmega-button .htb-btn .htmega_button_icon {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-accordion-addons .htmega-accourdion-title .htmega-items-hedding {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-accordion-addons h2.heading-three, .elementor-widget-htmega-accordion-addons .accordion--5 .single_accordion .va-title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-accordion-addons .accordion-content {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-htmega-progressbar-addons p.htmega_progress_title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-progressbar-addons .htmega-single-skill .htb-progress span.percent-label {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-countdown-addons .htmega-countbox .ht-count::before {color: #202020;}
+.elementor-widget-htmega-countdown-addons .htmega-countbox span.time-count {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-countdown-addons .htmega-countbox span span.count-inner p {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-countdown-addons .htmega_event_button a {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-team-member-addons .htmega-team:hover .htmega-team-hover-action {background-color: #202020;}
+.elementor-widget-htmega-team-member-addons .htmega-team-style-6:hover .htmega-team-info {background-color: #202020;}
+.elementor-widget-htmega-team-member-addons .htmega-team-style-2 .htmega-team-hover-action .htmega-hover-action {background-color: #202020;}
+.elementor-widget-htmega-team-member-addons .htmega-team-click-action {background-color: #202020;}
+.elementor-widget-htmega-team-member-addons .htmega-team .htmega-team-name {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-team-member-addons .htmega-team .htmega-team-designation {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-team-member-addons .htmega-team .htmega-team-bio-info {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-pricing-table-addons .htmega-pricing-heading .title h2 {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-pricing-table-addons .htmega-pricing-heading .price h4 {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-pricing-table-addons .htmega-pricing-body ul li {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-pricing-table-addons .htmega-pricing-footer a.price_btn {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-testimonial-addons .htmega-testimonial-area .testimonal .content h4 {color: #202020;}
+.elementor-widget-htmega-testimonial-addons .htmega-testimonial-area .testimonal .clint-info h4 {color: #202020;}
+.elementor-widget-htmega-testimonial-addons .htmega-testimonial-area .testimonal .content h4, .elementor-widget-htmega-testimonial-addons .htmega-testimonial-area .testimonal .clint-info h4 {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-testimonial-addons .htmega-testimonial-area .testimonal .content span {color: #202020;}
+.elementor-widget-htmega-testimonial-addons .htmega-testimonial-area .testimonal .clint-info span {color: #202020;}
+.elementor-widget-htmega-testimonial-addons .htmega-testimonial-area .testimonal .content span, .elementor-widget-htmega-testimonial-addons .htmega-testimonial-area .testimonal .clint-info span {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-testimonial-addons .htmega-testimonial-area .testimonal .content p {color: #202020;}
+.elementor-widget-htmega-testimonial-addons .htmega-testimonial-area .htmega-testimonial-for .testimonial-desc p {color: #202020;}
+.elementor-widget-htmega-testimonial-addons .htmega-testimonial-area .testimonal .content p, .elementor-widget-htmega-testimonial-addons .htmega-testimonial-area .htmega-testimonial-for .testimonial-desc p {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-testimonial-addons .htmega-testimonial-area .slick-arrow {color: #202020;}
+.elementor-widget-htmega-testimonial-addons .htmega-testimonial-area .slick-arrow:hover {color: #202020;}
+.elementor-widget-htmega-userlogin-form-addons .htmega-login-form-wrapper input {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-userlogin-form-addons .htmega-login-form-wrapper input[type="submit"] {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-userlogin-form-addons .htmega-login-form-wrapper label, .elementor-widget-htmega-userlogin-form-addons .htmega-login-form-wrapper .login_register_text {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-userregister-form-addons .htmega-register-wrapper input {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-userregister-form-addons .htmega-register-wrapper textarea {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-userregister-form-addons .htmega-register-wrapper input[type="submit"] {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-userregister-form-addons .htmega-register-wrapper label {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-service-addons .htmega-service .service-title {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-service-addons .htmega-service .service-title a:hover {color: #202020;}
+.elementor-widget-htmega-service-addons .htmega-service-style-3 .content h4::before {background-color: #202020;}
+.elementor-widget-htmega-service-addons .htmega-service .content p {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-service-addons .htmega-service .icon i {color: #202020;}
+.elementor-widget-htmega-service-addons .htmega-service .icon svg {color: #202020;}
+.elementor-widget-htmega-service-addons .htmega-service:hover .icon i {color: #202020;}
+.elementor-widget-htmega-service-addons .htmega-service:hover .icon svg {color: #202020;}
+.elementor-widget-htmega-service-addons .htmega-service a.readmore_btn {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-service-addons .htmega-service a.readmore_btn:hover {color: #202020;}
+.elementor-widget-htmega-newtsicker-addons .breaking-news-ticker li a {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-newtsicker-addons .breaking-news-default .breaking-news-title h5 {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-newtsicker-addons .breaking-news-default .breaking-news-nav button i {color: #202020;}
+.elementor-widget-htmega-newtsicker-addons .breaking-news-default .breaking-news-nav button:hover i {color: #202020;}
+.elementor-widget-htmega-newtsicker-addons .breaking-news-default .breaking-news-ticker li span.news_date {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-magnific-popup-addons .htmega-lightbox .htmega-lightbox-action::before {background-color: #202020;}
+.elementor-widget-htmega-magnific-popup-addons .htmega-lightbox .image-popup-vertical-fit {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-magnific-popup-addons .htmega-lightbox .image-popup-vertical-fit i {color: #202020;}
+.elementor-widget-htmega-search-addons .htmega-search-box input {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-blockquote-addons .htmega-blockquote blockquote .blockquote_content {color: #202020;}
+.elementor-widget-htmega-blockquote-addons .htmega-blockquote blockquote .blockquote_content p {color: #202020;}
+.elementor-widget-htmega-blockquote-addons .htmega-blockquote blockquote .blockquote_content, .elementor-widget-htmega-blockquote-addons .htmega-blockquote blockquote .blockquote_content p {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-blockquote-addons .htmega-blockquote blockquote cite {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-blockquote-addons .htmega-blockquote blockquote cite::before {background-color: #202020;}
+.elementor-widget-htmega-blockquote-addons .htmega-blockquote blockquote .blockquote_icon {color: #202020;}
+.elementor-widget-htmega-instagram-addons .htmega-instragram ul.htmega-instagram-list li .instagram-clip::before {background-color: #202020;}
+.elementor-widget-htmega-instagram-addons .htmega-instragram ul.htmega-instagram-list .zoom_icon i {color: #202020;}
+.elementor-widget-htmega-instagram-addons .htmega-instragram ul.htmega-instagram-list .zoom_icon svg {color: #202020;}
+.elementor-widget-htmega-instagram-addons .htmega-instragram ul.htmega-instagram-list li .instagram-clip .htmega-content .instagram-like-comment span {color: #202020;}
+.elementor-widget-htmega-instagram-addons .htmega-instragram .slick-arrow {color: #202020;}
+.elementor-widget-htmega-instagram-addons .htmega-instragram .slick-arrow:hover {color: #202020;}
+.elementor-widget-htmega-switcher-addons .htmega-switcher-area .htmega_switcher_content {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-switcher-addons .htmega-switcher-nav a {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-switcher-addons .htmega-switcher-nav a.htb-active {color: #202020;}
+.elementor-widget-htmega-tab-addons .htmega-tab-nav a:not(i) {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-modal-addons .htmega-modal-btn button {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-modal-addons .htmega-modal-btn button:hover {color: #202020;}
+.elementor-widget-htmega-modal-addons .htb-modal-header h5 {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-modal-addons .htb-modal-footer p {color: #202020;}
+.elementor-widget-htmega-modal-addons .htb-modal-footer h5 {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-modal-addons .htmega-modal-area .htb-btn-secondary {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-modal-addons .htb-modal-body {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-flipbox-addons .front-container h2 {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-flipbox-addons .front-container span.flipbox-icon i {color: #202020;}
+.elementor-widget-htmega-flipbox-addons .front-container span.flipbox-icon svg {color: #202020;}
+.elementor-widget-htmega-flipbox-addons .front-container span.flipbox-icon {background-color: #202020;}
+.elementor-widget-htmega-flipbox-addons .front-container .flipbox-number {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-flipbox-addons .back-container h2 {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-flipbox-addons .back-container p {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-flipbox-addons .back-container span.flipbox-icon i {color: #202020;}
+.elementor-widget-htmega-flipbox-addons .back-container span.flipbox-icon svg {color: #202020;}
+.elementor-widget-htmega-flipbox-addons .back-container span.flipbox-icon {background-color: #202020;}
+.elementor-widget-htmega-flipbox-addons .back-container .flipbox-number {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-tooltip-addons .htmega-tooltip span {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-tooltip-addons .htmega-tooltip span a {color: #202020;}
+.elementor-widget-htmega-tooltip-addons .htmega-tooltip span:hover {color: #202020;}
+.elementor-widget-htmega-tooltip-addons .htb-tooltip-inner {color: #202020 !important;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-tooltip-addons .bs-tooltip-auto[x-placement^=top] .htb-arrow::before {border-top-color: #202020 !important;}
+.elementor-widget-htmega-tooltip-addons .bs-tooltip-top .htb-arrow::before {border-top-color: #202020 !important;}
+.elementor-widget-htmega-tooltip-addons .bs-tooltip-auto[x-placement^=bottom] .htb-arrow::before {border-bottom-color: #202020 !important;}
+.elementor-widget-htmega-tooltip-addons .bs-tooltip-bottom .htb-arrow::before {border-bottom-color: #202020 !important;}
+.elementor-widget-htmega-tooltip-addons .bs-tooltip-auto[x-placement^=left] .htb-arrow::before {border-left-color: #202020 !important;}
+.elementor-widget-htmega-tooltip-addons .bs-tooltip-left .htb-arrow::before {border-left-color: #202020 !important;}
+.elementor-widget-htmega-tooltip-addons .bs-tooltip-auto[x-placement^=right] .htb-arrow::before {border-right-color: #202020 !important;}
+.elementor-widget-htmega-tooltip-addons .bs-tooltip-right .htb-arrow::before {border-right-color: #202020 !important;}
+.elementor-widget-htmega-toggle-addons .htmega_custom_content {color: #202020;}
+.elementor-widget-htmega-toggle-addons .htmega_custom_content * {color: #202020;}
+.elementor-widget-htmega-toggle-addons .htmega_custom_content, .elementor-widget-htmega-toggle-addons .htmega_custom_content * {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-toggle-addons .htmega-toggle-button a {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-toggle-addons .htmega-toggle-button a:hover {color: #202020;}
+.elementor-widget-htmega-dropcaps-addons .htmega-dropcaps-area .htmega-dropcaps-inner p {color: #202020;}
+.elementor-widget-htmega-dropcaps-addons .htmega-dropcaps-area .htmega-dropcaps-inner {color: #202020;}
+.elementor-widget-htmega-dropcaps-addons .htmega-dropcaps-area .htmega-dropcaps-inner p, .elementor-widget-htmega-dropcaps-addons .htmega-dropcaps-area .htmega-dropcaps-inner {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-dropcaps-addons .htmega-dropcaps-area .htmega-dropcaps-inner p:first-of-type:first-letter {color: #202020;}
+.elementor-widget-htmega-dropcaps-addons .htmega-dropcaps-area .htmega-dropcaps-inner:first-of-type:first-letter {color: #202020;}
+.elementor-widget-htmega-dropcaps-addons .htmega-dropcaps-area .htmega-dropcaps-inner p:first-of-type:first-letter, .elementor-widget-htmega-dropcaps-addons .htmega-dropcaps-area .htmega-dropcaps-inner:first-of-type:first-letter {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-imagemarker-addons .htmega-marker-wrapper:before {background-color: #202020;}
+.elementor-widget-htmega-imagemarker-addons .htmega-marker-wrapper .htmega_image_pointer .htmega_pointer_box h4 {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-imagemarker-addons .htmega-marker-wrapper .htmega_image_pointer .htmega_pointer_box p {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-inlinemenu-addons .linemenu-nav ul.htmega-mainmenu li a {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-counter-addons .htmega-counter-area .htmega-counter-content .htmega-counter-number {color: #202020;}
+.elementor-widget-htmega-counter-addons .htmega-counter-area .htmega-counter-icon .htmega-counter-number {color: #202020;}
+.elementor-widget-htmega-counter-addons .htmega-counter-area .htmega-counter-content .htmega-counter-number, .elementor-widget-htmega-counter-addons .htmega-counter-area .htmega-counter-icon .htmega-counter-number {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-counter-addons .htmega-counter-area .htmega-counter-content .htmega-counter-title {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-counter-addons .htmega-counter-content h2::before {background-color: #202020;}
+.elementor-widget-htmega-counter-addons .htmega-counter-area .htmega-counter-icon i {color: #202020;}
+.elementor-widget-htmega-counter-addons .htmega-counter-area .htmega-counter-icon svg {color: #202020;}
+.elementor-widget-htmega-counter-addons .htmega-counter-area .htmega-counter-content .htmega-prefix {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-counter-addons .htmega-counter-area .htmega-counter-content .htmega-suffix {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-singlepost-addons .htmega-single-post .content h2 a {color: #202020;}
+.elementor-widget-htmega-singlepost-addons .htmega-single-post .content h2 {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-singlepost-addons .htmega-single-post .post-category a {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-singlepost-addons .ht-post .post-content .content .meta {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-postgrid-addons .ht-post .post-content .content h2 a {color: #202020;}
+.elementor-widget-htmega-postgrid-addons .ht-post .post-content .content h4 a {color: #202020;}
+.elementor-widget-htmega-postgrid-addons .ht-post .post-content .content h4, .elementor-widget-htmega-postgrid-addons .ht-post .post-content .content h2 {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-postgrid-addons .ht-post .post-content .content .meta {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-postgrid-addons .ht-post a.post-category {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-postslider-addons .htmega-single-post-slide .content .post-inner h2 a {color: #202020;}
+.elementor-widget-htmega-postslider-addons .htmega-single-post-slide .content .post-inner h2 {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-postslider-addons .htmega-single-post-slide .content .post-inner p {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-postslider-addons .htmega-single-post-slide .content ul.post-category li a {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-postslider-addons .htmega-single-post-slide .content ul.post-category li a:hover {color: #202020;}
+.elementor-widget-htmega-postslider-addons .htmega-single-post-slide ul.meta {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-postslider-addons .htmega-single-post-slide .content .post-inner ul.meta li a {color: #202020;}
+.elementor-widget-htmega-postslider-addons .htmega-single-post-slide .post-btn a.readmore-btn {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-postslider-addons .htmega-single-post-slide .post-btn a.readmore-btn:hover {color: #202020;}
+.elementor-widget-htmega-postslider-addons .htmega-postslider-area button.slick-arrow {color: #202020;}
+.elementor-widget-htmega-postslider-addons .htmega-postslider-area button.slick-arrow:hover {color: #202020;}
+.elementor-widget-htmega-postgridtab-addons .single-post-grid-tab .post-inner h2 {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-postgridtab-addons .single-post-grid-tab .post-inner p {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-postgridtab-addons .single-post-grid-tab .post-inner .post-category li a {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-postgridtab-addons .single-post-grid-tab .post-inner .post-category li a:hover {color: #202020;}
+.elementor-widget-htmega-postgridtab-addons .single-post-grid-tab .post-inner .meta {color: #202020;}
+.elementor-widget-htmega-postgridtab-addons .single-post-grid-tab .post-inner .meta li a {color: #202020;}
+.elementor-widget-htmega-postgridtab-addons .single-post-grid-tab .post-inner .meta li {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-postgridtab-addons .single-post-grid-tab .post-inner .post-btn a.readmore-btn {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-postgridtab-addons .single-post-grid-tab .post-inner .post-btn a.readmore-btn:hover {color: #202020;}
+.elementor-widget-htmega-postgridtab-addons .post-content .close__wrap button {color: #202020;}
+.elementor-widget-htmega-postgridtab-addons .post-content .close__wrap button:hover {color: #202020;}
+.elementor-widget-htmega-postcarousel-addons .post-carousel-wrapper .htmega-postslider-layout-2 .content .post-inner {border-color: #202020;}
+.elementor-widget-htmega-postcarousel-addons .post-carousel-wrapper .htmega-postslider-layout-2:hover .content .post-inner {border-color: #202020;}
+.elementor-widget-htmega-postcarousel-addons .htmega-single-post-slide .content .post-inner h2 a {color: #202020;}
+.elementor-widget-htmega-postcarousel-addons .htmega-single-post-slide .content .post-inner h2 {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-postcarousel-addons .htmega-single-post-slide .content .post-inner p {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-postcarousel-addons .htmega-single-post-slide .content ul.post-category li a {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-postcarousel-addons .htmega-single-post-slide .content ul.post-category li a:hover {color: #202020;}
+.elementor-widget-htmega-postcarousel-addons .htmega-single-post-slide ul.meta {color: #202020;}
+.elementor-widget-htmega-postcarousel-addons .htmega-single-post-slide .content .post-inner ul.meta li a {color: #202020;}
+.elementor-widget-htmega-postcarousel-addons .htmega-single-post-slide ul.meta li {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-postcarousel-addons .htmega-single-post-slide .post-btn a.readmore-btn {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-postcarousel-addons .htmega-single-post-slide .post-btn a.readmore-btn:hover {color: #202020;}
+.elementor-widget-htmega-postcarousel-addons .htmega-carousel-activation button.slick-arrow {color: #202020;}
+.elementor-widget-htmega-postcarousel-addons .htmega-carousel-activation button.slick-arrow:hover {color: #202020;}
+.elementor-widget-htmega-imagegrid-addons .htmega-singleimage-grid .thumb a::before {background-color: #202020;}
+.elementor-widget-htmega-imagegrid-addons .htmega-singleimage-gridstyle-5 .image-grid-content {background-color: #202020;}
+.elementor-widget-htmega-imagegrid-addons .htmega-singleimage-grid .image-grid-content h2 {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-imagegrid-addons .htmega-singleimage-grid .image-grid-content p {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-imagegrid-addons .htmega-singleimage-grid .image-grid-content a.read-btn {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-imagegrid-addons .htmega-singleimage-grid .image-grid-content a.read-btn:hover {color: #202020;}
+.elementor-widget-htmega-imagemasonryd-addons .htmega-singleimage-grid .thumb a::before {background-color: #202020;}
+.elementor-widget-htmega-imagemasonryd-addons .htmega-singleimage-grid .image-grid-content h2 {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-imagemasonryd-addons .htmega-singleimage-grid .image-grid-content p {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-imagemasonryd-addons .htmega-singleimage-grid .image-grid-content a.read-btn {color: #202020;}
+.elementor-widget-htmega-imagemasonryd-addons .htmega-singleimage-grid .image-grid-content a.read-btn:hover {color: #202020;}
+.elementor-widget-htmega-calltoaction-addons .htmega-call-to-action .htmega-content .htmega-callto-action-title {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-calltoaction-addons .htmega-call-to-action .htmega-content .htmega-callto-action-description {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-htmega-calltoaction-addons .htmega-call-to-action .htmega-content a.call_btn {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-htmega-carousel-addons .htmega-carousel-activation .slick-arrow {color: #202020;}
+.elementor-widget-htmega-carousel-addons .htmega-carousel-activation .slick-arrow:hover {color: #202020;}
+.elementor-widget-htmega-dualbutton-addons .htmega-doublebutton a.htmega-doule-btn.btn-one {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-dualbutton-addons .htmega-doublebutton a.htmega-doule-btn.btn-two {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-dualbutton-addons span.htmega-middle-text {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-addbanner-addons .htmega-banner .banner-content h2 {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-addbanner-addons .htmega-banner .banner-content h6 {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-addbanner-addons .htmega-banner .banner-content p {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-addbanner-addons .htmega-banner .banner-content a {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-specialdaybanner-addons .htmega-banner .banner-content h2 {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-specialdaybanner-addons .htmega-banner .banner-content h6 {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-specialdaybanner-addons .htmega-banner .banner-content p {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-specialdaybanner-addons .htmega-banner .banner-content h5 {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-specialdaybanner-addons .htmega-banner .banner-content h5 span {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-specialdaybanner-addons .htmega-banner .banner-content a {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-imagecomparison-addons .beer-slider[data-beer-label]::after {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-imagecomparison-addons .beer-reveal[data-beer-label]::after {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-businesshours-addons .htmega-business-hours .htmega-single-hrs span.day {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-businesshours-addons .htmega-business-hours .htmega-single-hrs span.time {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-offcanvas-addons .offcanvas .canvas-btn {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-animatedheading-addons .htmega-animated-heading h4 span.beforetext {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-animatedheading-addons .htmega-animated-heading h4 span.aftertext {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-animatedheading-addons .htmega-animated-heading .cd-words-wrapper b {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-customevent-addons .ht-event .content h4 {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-customevent-addons .ht-event .content h4 a:hover {color: #202020;}
+.elementor-widget-htmega-customevent-addons .ht-event .content p {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-customevent-addons .ht-event .content ul.event-time li {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-customevent-addons .ht-event .thumb .event-date {color: #202020;background-color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-customevent-addons .ht-event .content .event-btn a {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-htmega-customevent-addons .ht-event .content .event-btn a:hover {color: #202020;}
+.elementor-widget-htmega-wcaddtocart-addons .elementor-button {font-family: "Roboto",Sans-serif;font-weight: 500;background-color: #f6121c;}
+.elementor-widget-htmega-wcpages-addons .woocommerce button.button {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-wcpages-addons .wc-proceed-to-checkout a.checkout-button {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-wcpages-addons .woocommerce form .form-row label {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-wcpages-addons .woocommerce-MyAccount-navigation ul li a {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-wcpages-addons .woocommerce-MyAccount-content {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-htmega-categories-addons .woocommerce .product-category .woocommerce-loop-category__title, .elementor-widget-htmega-categories-addons .woocommerce .product-category .woocommerce-loop-category__title mark {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-obfx-posts-grid .obfx-grid .entry-title.obfx-grid-title, .elementor-widget-obfx-posts-grid .obfx-grid .entry-title.obfx-grid-title > a {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-obfx-posts-grid .obfx-grid .entry-title.obfx-grid-title {color: #202020;}
+.elementor-widget-obfx-posts-grid .obfx-grid .entry-title.obfx-grid-title > a {color: #202020;}
+.elementor-widget-obfx-posts-grid .obfx-grid-meta > span {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-obfx-posts-grid .obfx-grid-meta {color: #202020;}
+.elementor-widget-obfx-posts-grid .obfx-grid-meta span {color: #202020;}
+.elementor-widget-obfx-posts-grid .obfx-grid-meta a {color: #202020;}
+.elementor-widget-obfx-posts-grid .obfx-grid-content {font-family: "Roboto",Sans-serif;font-weight: 600;color: #202020;}
+.elementor-widget-obfx-posts-grid .obfx-grid-price {font-family: "Roboto",Sans-serif;font-weight: 600;color: #202020;}
+.elementor-widget-obfx-posts-grid .obfx-grid-footer a {font-family: "Roboto",Sans-serif;font-weight: 600;color: #202020;background-color: #202020;}
+.elementor-widget-obfx-posts-grid .obfx-grid-footer a:hover {color: #202020;background-color: #202020;}
+.elementor-widget-obfx-pricing-table .obfx-pricing-table-title {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-obfx-pricing-table .obfx-pricing-table-subtitle {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-obfx-pricing-table .obfx-price-currency {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-obfx-pricing-table .obfx-price {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-obfx-pricing-table .obfx-pricing-period {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-obfx-pricing-table .obfx-pricing-table-accented {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-obfx-pricing-table .obfx-pricing-table-feature {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-obfx-pricing-table .obfx-pricing-table-feature-icon {color: #202020;}
+.elementor-widget-obfx-pricing-table .obfx-pricing-table-button-wrapper {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-obfx-pricing-table .obfx-pricing-table-button {color: #202020;background-color: #202020;}
+.elementor-widget-obfx-pricing-table .obfx-pricing-table-button:hover {color: #202020;background-color: #202020;}
+.elementor-widget-obfx-services .obfx-service-title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-obfx-services .obfx-service-text {color: #707070;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-woolentor-product-tab .ht-tab-menus li a {font-family: "Roboto",Sans-serif;font-weight: 600;color: #202020;background-color: #202020 !important;}
+.elementor-widget-woolentor-product-tab .ht-tab-menus li a:hover {color: #202020;background-color: #202020 !important;}
+.elementor-widget-woolentor-product-tab .ht-tab-menus li a.htactive {color: #202020;background-color: #202020 !important;}
+.elementor-widget-woolentor-product-tab .product-slider .slick-arrow {color: #202020;background-color: #202020 !important;}
+.elementor-widget-woolentor-product-tab .product-slider .slick-dots li button {background-color: #202020 !important;}
+.elementor-widget-woolentor-product-tab .product-slider .slick-arrow:hover {color: #202020;background-color: #202020 !important;}
+.elementor-widget-woolentor-product-tab .product-slider .slick-dots li button:hover {background-color: #202020 !important;}
+.elementor-widget-woolentor-product-tab .product-slider .slick-dots li.slick-active button {background-color: #202020 !important;}
+.elementor-widget-woolentor-product-tab .product-item .product-inner .image-wrap {background-color: #202020 !important;}
+.elementor-widget-woolentor-product-tab .product-item .product-inner .content {background-color: #202020 !important;}
+.elementor-widget-woolentor-product-tab .product-item .product-inner .content .title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-woolentor-product-tab .product-item .product-inner .content .title a {color: #202020;}
+.elementor-widget-woolentor-product-tab .product-item .product-inner .content .price {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-woolentor-product-tab .product-item .product-inner .content .title a:hover {color: #202020;}
+.elementor-widget-woolentor-product-tab .product-item .product-inner .product_information_area .content {background-color: #202020 !important;}
+.elementor-widget-woolentor-product-tab .product-item .actions a, .elementor-widget-woolentor-product-tab .product-item .woocommerce.compare-button a.button, .elementor-widget-woolentor-product-tab .product-item .actions a::before {color: #202020;}
+.elementor-widget-woolentor-product-tab .product-item .actions {background-color: #202020;}
+.elementor-widget-woolentor-product-tab .product-item .actions a:hover, .elementor-widget-woolentor-product-tab .product-item .woocommerce.compare-button a.button:hover, .elementor-widget-woolentor-product-tab .product-item .actions a:hover::before {color: #202020;}
+.elementor-widget-woolentor-product-tab .product-item .actions:hover {background-color: #202020;}
+.elementor-widget-woolentor-addbanner-addons .woolentor-banner .banner_title {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-woolentor-addbanner-addons .woolentor-banner .banner_subtitle {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-woolentor-addbanner-addons .woolentor-banner .banner_button {color: #202020;border-color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-woolentor-addbanner-addons .woolentor-banner .banner_button:hover {color: #202020;border-color: #202020;}
+.elementor-widget-woolentor-specialdaybanner-addons .wlspcial-banner .banner-content h2 {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-woolentor-specialdaybanner-addons .wlspcial-banner .banner-content h6 {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-woolentor-specialdaybanner-addons .wlspcial-banner .banner-content p {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-woolentor-specialdaybanner-addons .wlspcial-banner .banner-content h5 {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-woolentor-specialdaybanner-addons .wlspcial-banner .banner-content h5 span {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-woolentor-specialdaybanner-addons .wlspcial-banner .banner-content a {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-image-wrap .ht-product-image .ht-product-image-slider .slick-arrow {color: #202020 !important;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-image-wrap .ht-product-image .ht-product-image-slider .slick-dots li button {background-color: #202020 !important;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-image-wrap .ht-product-image .ht-product-image-slider .slick-dots li.slick-active button {background-color: #202020 !important;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-image-wrap .ht-product-image .ht-product-cus-tab-links li a {border-color: #202020;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-image-wrap .ht-product-image .ht-product-cus-tab-links li a.htactive {border-color: #202020 !important;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner {border-color: #202020;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-content {background-color: #202020;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-image-wrap .ht-product-label {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-content .ht-product-content-inner .ht-product-categories a {font-family: "Roboto",Sans-serif;font-weight: 600;color: #202020;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-content .ht-product-content-inner .ht-product-categories::before {background-color: #202020;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-content .ht-product-content-inner .ht-product-categories a:hover {color: #202020;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-content .ht-product-content-inner .ht-product-title a {font-family: "Roboto",Sans-serif;font-weight: 600;color: #202020;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-content .ht-product-content-inner .ht-product-title a:hover {color: #202020;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-content .ht-product-content-inner .ht-product-price span {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-content .ht-product-content-inner .ht-product-price span del span, .elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-content .ht-product-content-inner .ht-product-price span del {color: #202020;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-content .ht-product-content-inner .ht-product-price span del span {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-content .ht-product-content-inner .ht-product-ratting-wrap .ht-product-ratting i {color: #202020;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-content .ht-product-content-inner .ht-product-ratting-wrap .ht-product-ratting .ht-product-user-ratting i {color: #202020;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-image-wrap .ht-product-action ul li a .ht-product-action-tooltip, .elementor-widget-woolentor-universal-product span.woolentor-tip {color: #202020;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-image-wrap .ht-product-action ul li a {color: #202020;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-image-wrap .ht-product-action ul li:hover a {color: #202020;}
+.elementor-widget-woolentor-universal-product .ht-product-action .yith-wcwl-wishlistaddedbrowse a, .ht-product-action .yith-wcwl-wishlistexistsbrowse a {color: #202020 !important;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-countdown-wrap .ht-product-countdown .cd-single .cd-single-inner h3 {color: #202020;}
+.elementor-widget-woolentor-universal-product .ht-products .ht-product .ht-product-inner .ht-product-countdown-wrap .ht-product-countdown .cd-single .cd-single-inner p {color: #202020;}
+.elementor-widget-woolentor-universal-product .product-slider .slick-arrow {color: #202020;background-color: #202020 !important;}
+.elementor-widget-woolentor-universal-product .product-slider .slick-dots li button {background-color: #202020 !important;}
+.elementor-widget-woolentor-universal-product .product-slider .slick-arrow:hover {color: #202020;background-color: #202020 !important;}
+.elementor-widget-woolentor-universal-product .product-slider .slick-dots li button:hover {background-color: #202020 !important;}
+.elementor-widget-woolentor-universal-product .product-slider .slick-dots li.slick-active button {background-color: #202020 !important;}
+.elementor-widget-woolentor-universal-product .ht-tab-menus li a {font-family: "Roboto",Sans-serif;font-weight: 600;color: #202020;background-color: #202020 !important;}
+.elementor-widget-woolentor-universal-product .ht-tab-menus li a:hover {color: #202020;background-color: #202020 !important;}
+.elementor-widget-woolentor-universal-product .ht-tab-menus li a.htactive {color: #202020;background-color: #202020 !important;}
+.elementor-widget-woolentor-product-archive-addons.elementor-widget-woolentor-product-archive-addons ul.products li.product .woocommerce-loop-product__title {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-woolentor-product-archive-addons.elementor-widget-woolentor-product-archive-addons ul.products li.product .woocommerce-loop-product__title:hover {color: #202020;}
+.elementor-widget-woolentor-product-archive-addons.elementor-widget-woolentor-product-archive-addons ul.products li.product .price {color: #202020;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-woolentor-product-archive-addons.elementor-widget-woolentor-product-archive-addons ul.products li.product .price ins {color: #202020;}
+.elementor-widget-woolentor-product-archive-addons.elementor-widget-woolentor-product-archive-addons ul.products li.product .price ins .amount {color: #202020;}
+.elementor-widget-woolentor-product-archive-addons.elementor-widget-woolentor-product-archive-addons ul.products li.product .price del {color: #202020;}
+.elementor-widget-woolentor-product-archive-addons.elementor-widget-woolentor-product-archive-addons ul.products li.product .price del .amount {color: #202020;}
+.elementor-widget-woolentor-product-archive-addons.elementor-widget-woolentor-product-archive-addons ul.products li.product .price del {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-woolentor-product-archive-addons.elementor-widget-woolentor-product-archive-addons ul.products li.product .button {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-wl-product-suggest-price .wl-suggest-form-input input {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-wl-product-suggest-price .wl-suggest-form-input textarea {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-wl-product-suggest-price .wl-suggest-form-input input[type="submit"] {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-woo-products-widgets-categories .woo-products-categories .woo-products-categories__inner-box:hover .woo-products-category-title a {color: #b7b4b4;}
+.elementor-widget-woo-products-widgets-categories .woo-products-categories .woo-products-categories__inner-box:hover .woo-products-category-excerpt {color: #b7b4b4;}
+.elementor-widget-woo-products-widgets-categories .woo-products-categories .woo-products-categories__inner-box:hover .woo-products-category-count {color: #b7b4b4;border-color: #b7b4b4;}
+.elementor-widget-woo-products-widgets-categories .woo-products-categories .woo-products-categories__inner-box:hover .woo-products-categories-content {border-color: #b7b4b4;}
+.elementor-widget-woo-products-widgets-categories .woo-products-categories .woo-products-category-title {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-woo-products-widgets-categories .woo-products-categories .woo-products-category-title a {color: #b7b4b4;}
+.elementor-widget-woo-products-widgets-categories .woo-products-categories .woo-products-category-title a:hover {color: #b7b4b4 !important;}
+.elementor-widget-woo-products-widgets-categories .woo-products-categories .woo-products-category-count {font-family: "Roboto",Sans-serif;font-weight: 400;color: #b7b4b4;}
+.elementor-widget-woo-products-widgets-categories .woo-products-categories .woo-products-category-excerpt {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-woo-products-widgets-categories .woo-products-categories .woo-products-arrow {background-color: #202020;}
+.elementor-widget-woo-products-widgets-categories .woo-products-categories .woo-products-arrow:hover {background-color: #202020;}
+.elementor-widget-woo-products-widgets-categories .woo-products-carousel .woo-products-slick-dots li span {background-color: #707070;}
+.elementor-widget-woo-products-widgets-categories .woo-products-carousel .woo-products-slick-dots li span:hover {background-color: #202020;}
+.elementor-widget-woo-products-widgets-categories .woo-products-carousel .woo-products-slick-dots li.slick-active span {background-color: #f6121c;}
+.elementor-widget-woo-products-widgets-products-list .woo-products-products-list .woo-products-product-title {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-woo-products-widgets-products-list .woo-products-products-list .woo-products-product-title a {color: #b7b4b4;}
+.elementor-widget-woo-products-widgets-products-list .woo-products-products-list .woo-products-product-title a:hover {color: #b7b4b4;}
+.elementor-widget-woo-products-widgets-products-list .woo-products-products-list .woo-products-product-categories {font-family: "Roboto",Sans-serif;font-weight: 400;color: #b7b4b4;}
+.elementor-widget-woo-products-widgets-products-list .woo-products-products-list .woo-products-product-categories a {color: #b7b4b4;}
+.elementor-widget-woo-products-widgets-products-list .woo-products-products-list .woo-products-product-categories a:hover {color: #b7b4b4;}
+.elementor-widget-woo-products-widgets-products-list  .woo-products-products-list .woo-products-product-button .button {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-woo-products-widgets-products-list .woo-products-products-list .woo-products-product-button .button {background-color: #202020;}
+.elementor-widget-woo-products-widgets-products-list .woo-products-products-list .woo-products-product-button .button:hover {background-color: #202020;}
+.elementor-widget-woo-products-widgets-products .woo-products-products .woo-products-product-title {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-woo-products-widgets-products .woo-products-products .woo-products-product-title a {color: #b7b4b4;}
+.elementor-widget-woo-products-widgets-products .woo-products-products .woo-products-product-title a:hover {color: #b7b4b4;}
+.elementor-widget-woo-products-widgets-products .woo-products-products .woo-products-product-excerpt {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-woo-products-widgets-products  .woo-products-products .woo-products-product-button .button {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-woo-products-widgets-products .woo-products-products .woo-products-product-button .button {background-color: #202020;}
+.elementor-widget-woo-products-widgets-products .woo-products-products .woo-products-product-button .button:hover {background-color: #202020;}
+.elementor-widget-woo-products-widgets-products .woo-products-products .woo-products-product-categories {font-family: "Roboto",Sans-serif;font-weight: 400;color: #b7b4b4;}
+.elementor-widget-woo-products-widgets-products .woo-products-products .woo-products-product-categories a {color: #b7b4b4;}
+.elementor-widget-woo-products-widgets-products .woo-products-products .woo-products-product-categories a:hover {color: #b7b4b4;}
+.elementor-widget-woo-products-widgets-products .woo-products-products .woo-products-product-tags {font-family: "Roboto",Sans-serif;font-weight: 400;color: #b7b4b4;}
+.elementor-widget-woo-products-widgets-products .woo-products-products .woo-products-product-tags a {color: #b7b4b4;}
+.elementor-widget-woo-products-widgets-products .woo-products-products .woo-products-product-tags a:hover {color: #b7b4b4;}
+.elementor-widget-woo-products-widgets-products  .woo-products-products .woo-products-product-badge {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-woo-products-widgets-products .woo-products-products .woo-products-arrow {background-color: #202020;}
+.elementor-widget-woo-products-widgets-products .woo-products-products .woo-products-arrow:hover {background-color: #202020;}
+.elementor-widget-woo-products-widgets-products .woo-products-carousel .woo-products-slick-dots li span {background-color: #707070;}
+.elementor-widget-woo-products-widgets-products .woo-products-carousel .woo-products-slick-dots li span:hover {background-color: #202020;}
+.elementor-widget-woo-products-widgets-products .woo-products-carousel .woo-products-slick-dots li.slick-active span {background-color: #f6121c;}
+.elementor-widget-content_form_contact fieldset > label, .elementor-widget-content_form_contact .elementor-field-subgroup label {color: #707070;}
+.elementor-widget-content_form_contact fieldset > label {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-content_form_contact fieldset > input, .elementor-widget-content_form_contact fieldset select, .elementor-widget-content_form_contact fieldset > textarea, .elementor-widget-content_form_contact fieldset > button {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-content_form_contact fieldset > input {color: #707070;}
+.elementor-widget-content_form_contact fieldset > input::placeholder {color: #707070;}
+.elementor-widget-content_form_contact fieldset select {color: #707070;}
+.elementor-widget-content_form_contact fieldset select::placeholder {color: #707070;}
+.elementor-widget-content_form_contact fieldset > textarea {color: #707070;}
+.elementor-widget-content_form_contact fieldset > textarea::placeholder {color: #707070;}
+.elementor-widget-content_form_contact fieldset > input:focus {color: #707070;}
+.elementor-widget-content_form_contact fieldset > input::placeholder:focus {color: #707070;}
+.elementor-widget-content_form_contact fieldset select:focus {color: #707070;}
+.elementor-widget-content_form_contact fieldset select::placeholder:focus {color: #707070;}
+.elementor-widget-content_form_contact fieldset > textarea:focus {color: #707070;}
+.elementor-widget-content_form_contact fieldset > textarea::placeholder:focus {color: #707070;}
+.elementor-widget-content_form_contact fieldset > button {background-color: #f6121c;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-content_form_contact .content-form-notice {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-content_form_newsletter fieldset > label, .elementor-widget-content_form_newsletter .elementor-field-subgroup label {color: #707070;}
+.elementor-widget-content_form_newsletter fieldset > label {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-content_form_newsletter fieldset > input, .elementor-widget-content_form_newsletter fieldset select, .elementor-widget-content_form_newsletter fieldset > textarea, .elementor-widget-content_form_newsletter fieldset > button {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-content_form_newsletter fieldset > input {color: #707070;}
+.elementor-widget-content_form_newsletter fieldset > input::placeholder {color: #707070;}
+.elementor-widget-content_form_newsletter fieldset select {color: #707070;}
+.elementor-widget-content_form_newsletter fieldset select::placeholder {color: #707070;}
+.elementor-widget-content_form_newsletter fieldset > textarea {color: #707070;}
+.elementor-widget-content_form_newsletter fieldset > textarea::placeholder {color: #707070;}
+.elementor-widget-content_form_newsletter fieldset > input:focus {color: #707070;}
+.elementor-widget-content_form_newsletter fieldset > input::placeholder:focus {color: #707070;}
+.elementor-widget-content_form_newsletter fieldset select:focus {color: #707070;}
+.elementor-widget-content_form_newsletter fieldset select::placeholder:focus {color: #707070;}
+.elementor-widget-content_form_newsletter fieldset > textarea:focus {color: #707070;}
+.elementor-widget-content_form_newsletter fieldset > textarea::placeholder:focus {color: #707070;}
+.elementor-widget-content_form_newsletter fieldset > button {background-color: #f6121c;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-content_form_newsletter .content-form-notice {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-content_form_registration fieldset > label, .elementor-widget-content_form_registration .elementor-field-subgroup label {color: #707070;}
+.elementor-widget-content_form_registration fieldset > label {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-content_form_registration fieldset > input, .elementor-widget-content_form_registration fieldset select, .elementor-widget-content_form_registration fieldset > textarea, .elementor-widget-content_form_registration fieldset > button {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-content_form_registration fieldset > input {color: #707070;}
+.elementor-widget-content_form_registration fieldset > input::placeholder {color: #707070;}
+.elementor-widget-content_form_registration fieldset select {color: #707070;}
+.elementor-widget-content_form_registration fieldset select::placeholder {color: #707070;}
+.elementor-widget-content_form_registration fieldset > textarea {color: #707070;}
+.elementor-widget-content_form_registration fieldset > textarea::placeholder {color: #707070;}
+.elementor-widget-content_form_registration fieldset > input:focus {color: #707070;}
+.elementor-widget-content_form_registration fieldset > input::placeholder:focus {color: #707070;}
+.elementor-widget-content_form_registration fieldset select:focus {color: #707070;}
+.elementor-widget-content_form_registration fieldset select::placeholder:focus {color: #707070;}
+.elementor-widget-content_form_registration fieldset > textarea:focus {color: #707070;}
+.elementor-widget-content_form_registration fieldset > textarea::placeholder:focus {color: #707070;}
+.elementor-widget-content_form_registration fieldset > button {background-color: #f6121c;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-content_form_registration .content-form-notice {font-family: "Roboto",Sans-serif;font-weight: 400;}
