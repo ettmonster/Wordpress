@@ -1,0 +1,4 @@
+body.elementor-kit-40 p {margin-bottom: 1.1em;}
+body.elementor-kit-40 button, body.elementor-kit-40 input[type="button"], body.elementor-kit-40 input[type="submit"], body.elementor-kit-40 .elementor-button {color: rgba(68,163,185,0);background-color: rgba(172,216,235,0);}
+body.elementor-kit-40 label {color: rgba(68,163,185,0);}
+body.elementor-kit-40 img {opacity: 1;transition-duration: .3s;}
